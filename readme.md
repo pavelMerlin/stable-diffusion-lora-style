@@ -78,7 +78,7 @@ After each epoch, the LoRA weights are saved for later use in the generation ste
 
 File with model weights are not provided because of memory limits.
 
-Load the LoRA weights and generate new images by running the `LoRA_generation.ipynb` notebook.
+Train model and load the LoRA weights and generate new images by running the `LoRA_generation.ipynb` notebook.
 
 Provide a prompt for the generation. Example:
 
