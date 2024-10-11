@@ -27,7 +27,7 @@ The project consists of multiple Jupyter notebooks and Python scripts that facil
 
 ## Requirements
 
-The project requires Python 3.12.3 and the following packages:
+The project requires Python 3.12.3 and the following packages for generation:
 
 - `os`
 - `torch`
