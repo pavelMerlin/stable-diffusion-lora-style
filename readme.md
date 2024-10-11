@@ -102,7 +102,7 @@ Generated images exhibit:
 However, the small dataset size limits the diversity and precision of the results.
 
 From Artist
-![Horse](data/proc_data/24.jpg)
+![Horse](model_results/24.jpg)
 
 Promt:
 ```bash
