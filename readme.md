@@ -41,7 +41,7 @@ The project requires Python 3.12.3 and the following packages for generation:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/stable-diffusion-lora.git cd stable-diffusion-lora
+git clone https://github.com/pavelMerlin/stable-diffusion-lora-style.git cd stable-diffusion-lora-style
 ```
 
 2. Install the required dependencies:
