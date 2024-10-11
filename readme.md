@@ -27,7 +27,7 @@ The project consists of multiple Jupyter notebooks and Python scripts that facil
 
 ## Requirements
 
-The project requires Python 3.12.3 and the following packages:
+The project requires Python 3.12.3 and the following packages for generation:
 
 - `os`
 - `torch`
@@ -41,7 +41,7 @@ The project requires Python 3.12.3 and the following packages:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/stable-diffusion-lora.git cd stable-diffusion-lora
+git clone https://github.com/pavelMerlin/stable-diffusion-lora-style.git cd stable-diffusion-lora-style
 ```
 
 2. Install the required dependencies:
@@ -102,7 +102,7 @@ Generated images exhibit:
 However, the small dataset size limits the diversity and precision of the results.
 
 From Artist
-![Horse](data/proc_data/24.jpg)
+![Horse](model_results/24.jpg)
 
 Promt:
 ```bash
